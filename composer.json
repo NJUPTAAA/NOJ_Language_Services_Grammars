@@ -1,5 +1,5 @@
 {
-    "name": "noj-language-services/grammars",
+    "name": "noj-language-service/grammars",
     "description": "Standalone Grammars for Language Services of NOJ.",
     "type": "noj-language-services",
     "license": "MIT",
